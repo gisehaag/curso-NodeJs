@@ -1,0 +1,11 @@
+# NPM dependencies
+node_modules
+
+# Images
+*.jpg
+*.png
+
+#Other files
+*.pdf
+*.zip
+
