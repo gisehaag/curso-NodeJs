@@ -1,6 +1,9 @@
 # NPM dependencies
 node_modules
 
+#Data config
+config.js
+
 # Images
 *.jpg
 *.png
