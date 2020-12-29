@@ -4,6 +4,16 @@ node_modules
 #Data config
 config.js
 
+#FrontEnd
+public/src/
+frontend/
+public/*.js
+public/*.vue
+public/*.json
+*.browserslistrc
+*.editorconfig
+*.env
+
 # Images
 *.jpg
 *.png
